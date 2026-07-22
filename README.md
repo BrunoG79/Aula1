@@ -33,4 +33,4 @@ function boasVindas(nome) {
 | :--- | :--- | :--- |
 | Markdown | sim | Ativo |
 
-![PC](PC sla.webp)
+![PC](PCsla.webp)
