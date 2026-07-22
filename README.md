@@ -7,6 +7,13 @@ exemplo de uso da estilização em negrito **Palavras de exemplo** utiliza-se **
 exemplo de uso da estilização em itálico *Palavra de exemplo* utiliza-se *
 exemplo de uso de estilização em tachado ~~Palavra de exemplo~~ utiliza-se ~~
 
+Texto de exemplo
+
+bruno lindo
+
+
+
+
 # Lista de compras
 - Arroz
 - Feijão
