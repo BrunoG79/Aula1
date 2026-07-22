@@ -26,8 +26,10 @@ Exemplo de trecho de código :
 function boasVindas(nome) {
   console.log(`ola, ${nome}!`);
 }
-````
+```
+
 ## Exemplo de tabelas
 | Recurso | Suporte | Status |
 | :--- | :--- | :--- |
 | Markdown | sim | Ativo |
+
